@@ -1,0 +1,4 @@
+HOST = '192.168.133.53'
+PORT = 10002
+SYSTEM_ID = 'asdasd'
+PASSWORD = 'asdasd'

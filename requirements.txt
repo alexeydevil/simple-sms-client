@@ -1,0 +1,3 @@
+Twisted
+smpp.pdu
+chardet==2.2.1
